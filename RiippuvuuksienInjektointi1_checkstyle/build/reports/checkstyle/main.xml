@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="5.9">
+<file name="/Users/akkuJii/Documents/Ohjelmistotuotanto/ohtu2017/koodi/viikko2/RiippuvuuksienInjektointi1/src/main/java/ohtu/Laskin.java">
+<error line="15" column="5" severity="error" message="Cyclomatic Complexity is 4 (max allowed is 3)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+<file name="/Users/akkuJii/Documents/Ohjelmistotuotanto/ohtu2017/koodi/viikko2/RiippuvuuksienInjektointi1/src/main/java/ohtu/Main.java">
+</file>
+<file name="/Users/akkuJii/Documents/Ohjelmistotuotanto/ohtu2017/koodi/viikko2/RiippuvuuksienInjektointi1/src/main/java/ohtu/laskin/IO.java">
+</file>
+<file name="/Users/akkuJii/Documents/Ohjelmistotuotanto/ohtu2017/koodi/viikko2/RiippuvuuksienInjektointi1/src/main/java/ohtu/laskin/KonsoliIO.java">
+</file>
+<file name="/Users/akkuJii/Documents/Ohjelmistotuotanto/ohtu2017/koodi/viikko2/RiippuvuuksienInjektointi1/src/main/java/ohtu/laskin/Laskin.java">
+<error line="11" column="5" severity="error" message="Cyclomatic Complexity is 4 (max allowed is 3)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+</file>
+</checkstyle>
